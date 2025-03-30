@@ -1,4 +1,9 @@
 # AI-Powered Career Assistant
+## Project Members
+Sanika Mhadgut
+Abhishek Kumar
+Ankit Chaurasia
+
 
 ## Overview
 The AI-Powered Career Assistant is a smart conversational AI system designed to help employees make informed career decisions by providing actionable insights from complex payroll and market data. The system leverages Microsoft Copilot Studio, integrating with various data sources to offer personalized career guidance.
