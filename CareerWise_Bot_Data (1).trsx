@@ -1,0 +1,70 @@
+<project xmlns:nuance="https://developer.nuance.com/mix/nlu/trsx" xml:lang="en-US" nuance:version="2.0">
+  <metadata>
+    <entry key="SchemaName">cr0f0_careerWiseBot</entry>
+  </metadata>
+  <ontology base="https://developer.nuance.com/mix/nlu/trsx/ontology-1.0.xml">
+    <intents>
+      <intent name="i_Employee_Analytics" />
+      <intent name="i_Goodbye" />
+      <intent name="i_Greeting" />
+      <intent name="i_HR_Analytics" />
+      <intent name="i_NewEmployee" />
+      <intent name="i_StartOver" />
+      <intent name="i_ThankYou" />
+      <intent name="i_Wrong_Info" />
+    </intents>
+    <concepts>
+      <concept name="t-EndofConversation-Continue">
+        <relations>
+          <relation type="isA" conceptref="nuance_BOOLEAN" />
+        </relations>
+      </concept>
+      <concept name="t-EndofConversation-SurveyResponse">
+        <relations>
+          <relation type="isA" conceptref="nuance_BOOLEAN" />
+        </relations>
+      </concept>
+      <concept name="t-EndofConversation-TryAgain">
+        <relations>
+          <relation type="isA" conceptref="nuance_BOOLEAN" />
+        </relations>
+      </concept>
+      <concept name="t-Goodbye-EndConversation">
+        <relations>
+          <relation type="isA" conceptref="nuance_BOOLEAN" />
+        </relations>
+      </concept>
+      <concept name="t-StartOver-Confirm">
+        <relations>
+          <relation type="isA" conceptref="nuance_BOOLEAN" />
+        </relations>
+      </concept>
+    </concepts>
+  </ontology>
+  <dictionaries />
+  <samples>
+    <sample intentref="i_Employee_Analytics" count="1" excluded="false" fullyVerified="true">employee details</sample>
+    <sample intentref="i_Goodbye" count="1" excluded="false" fullyVerified="true">Bye</sample>
+    <sample intentref="i_Goodbye" count="1" excluded="false" fullyVerified="true">Bye for now</sample>
+    <sample intentref="i_Goodbye" count="1" excluded="false" fullyVerified="true">Bye now</sample>
+    <sample intentref="i_Goodbye" count="1" excluded="false" fullyVerified="true">Good bye</sample>
+    <sample intentref="i_Goodbye" count="1" excluded="false" fullyVerified="true">No thank you. Goodbye.</sample>
+    <sample intentref="i_Goodbye" count="1" excluded="false" fullyVerified="true">See you later</sample>
+    <sample intentref="i_Greeting" count="1" excluded="false" fullyVerified="true">Good afternoon</sample>
+    <sample intentref="i_Greeting" count="1" excluded="false" fullyVerified="true">Good morning</sample>
+    <sample intentref="i_Greeting" count="1" excluded="false" fullyVerified="true">Hello</sample>
+    <sample intentref="i_Greeting" count="1" excluded="false" fullyVerified="true">Hey</sample>
+    <sample intentref="i_Greeting" count="1" excluded="false" fullyVerified="true">Hi</sample>
+    <sample intentref="i_HR_Analytics" count="1" excluded="false" fullyVerified="true">HR</sample>
+    <sample intentref="i_NewEmployee" count="1" excluded="false" fullyVerified="true">Employee specific</sample>
+    <sample intentref="i_StartOver" count="1" excluded="false" fullyVerified="true">let's begin again</sample>
+    <sample intentref="i_StartOver" count="1" excluded="false" fullyVerified="true">start over</sample>
+    <sample intentref="i_StartOver" count="1" excluded="false" fullyVerified="true">start again</sample>
+    <sample intentref="i_StartOver" count="1" excluded="false" fullyVerified="true">restart</sample>
+    <sample intentref="i_ThankYou" count="1" excluded="false" fullyVerified="true">thanks</sample>
+    <sample intentref="i_ThankYou" count="1" excluded="false" fullyVerified="true">thank you</sample>
+    <sample intentref="i_ThankYou" count="1" excluded="false" fullyVerified="true">thanks so much</sample>
+    <sample intentref="i_ThankYou" count="1" excluded="false" fullyVerified="true">ty</sample>
+    <sample intentref="i_Wrong_Info" count="1" excluded="false" fullyVerified="true">change request</sample>
+  </samples>
+</project>
