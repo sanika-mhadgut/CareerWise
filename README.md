@@ -3,6 +3,7 @@ Link to the Demo Website - http://copilotstudio.microsoft.com/environments/Defau
 
 ![Logo](https://github.com/user-attachments/assets/cecac6f2-6db5-4efc-a131-52cb16e0fd89)
 
+##Quackathon - Stevens Institute Of Technology.
 ## Team Name
 Team Bermuda
 
