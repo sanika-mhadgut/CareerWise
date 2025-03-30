@@ -107,6 +107,11 @@ The AI-Powered Career Assistant is a smart conversational AI system designed to 
 <img width="467" alt="Screenshot 2025-03-30 at 10 36 01 AM" src="https://github.com/user-attachments/assets/d833d689-f4a4-4acc-b9dc-6d55222f9ce6" />
 <img width="1470" alt="Image14" src="https://github.com/user-attachments/assets/ab070bab-0643-4ddd-9b3f-0709de49117f" />
 <img width="1470" alt="Screenshot 2025-03-30 at 10 32 07 AM" src="https://github.com/user-attachments/assets/39a2c198-b40e-4046-b8e1-4888c9ca41ed" />
+<img width="350" alt="Screenshot 2025-03-30 at 1 14 52 PM" src="https://github.com/user-attachments/assets/24605aa1-854c-41b7-a7d0-5ad3dc940fee" />
+
+<img width="356" alt="Screenshot 2025-03-30 at 1 16 21 PM" src="https://github.com/user-attachments/assets/8be6fb29-7663-4a03-a3e3-af46cb309fd9" />
+<img width="354" alt="Screenshot 2025-03-30 at 1 17 47 PM" src="https://github.com/user-attachments/assets/acd5ba54-bea5-44df-961e-adc584625749" />
+
 <img width="1468" alt="Screenshot 2025-03-30 at 10 31 29 AM" src="https://github.com/user-attachments/assets/557790dd-a9d9-4fa6-941d-9a872dded135" />
 <img width="1468" alt="Screenshot 2025-03-30 at 10 31 07 AM" src="https://github.com/user-attachments/assets/339f9ac1-beb4-4fcf-8659-7d7b049975c6" />
 <img width="1271" alt="Screenshot 2025-03-30 at 10 29 22 AM" src="https://github.com/user-attachments/assets/33582a2f-13a8-4479-bc81-4f0600da37db" />
