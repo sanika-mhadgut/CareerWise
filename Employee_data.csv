@@ -1,0 +1,101 @@
+Employee ID,Full Name,Job Title,Department,Employment Status,Hire Date,Work Email,Contact Number,Annual Salary,Hourly Rate,Pay Frequency,Bank Account,Overtime Hours,Bonuses,Deductions,PTO Balance
+E001,Gina Cook,Cytogeneticist,Marketing,Part-time,5/21/22,gina.cook@company.com,361.842.6967x8615,N/A,$32/hour,Weekly,XXXX-XXXX-XXXX-9983,14,"$9,533 ",401(k) 5%,7
+E002,Emily Rivas,Photographer,IT,Part-time,5/10/24,emily.rivas@company.com,-10167,N/A,$21/hour,Monthly,XXXX-XXXX-XXXX-6741,17,"$8,585 ",Health Insurance ($200),4
+E003,Tommy Alexander,"Psychologist, educational",Marketing,Full-time,12/10/24,tommy.alexander@company.com,454.867.3212x398,"$66,376 ",N/A,Monthly,XXXX-XXXX-XXXX-2864,3,$0 ,Health Insurance ($200),11
+E004,Jennifer Vega,Secretary/administrator,IT,Contractor,9/19/20,jennifer.vega@company.com,(853)732-7959x9859,"$45,316 ",N/A,Weekly,XXXX-XXXX-XXXX-5170,0,$0 ,Health Insurance ($200),4
+E005,Sheila Holmes,"Social research officer, government",HR,Part-time,3/19/22,sheila.holmes@company.com,001-820-767-4709x5058,N/A,$15/hour,Bi-weekly,XXXX-XXXX-XXXX-7292,11,"$2,759 ",None,6
+E006,Ryan Frederick,Insurance risk surveyor,Analytics,Part-time,1/19/21,ryan.frederick@company.com,(325)512-8671x28758,N/A,$27/hour,Weekly,XXXX-XXXX-XXXX-8738,11,$0 ,Health Insurance ($200),9
+E007,William Gomez,Graphic designer,IT,Full-time,5/10/21,william.gomez@company.com,511-596-9464x54349,"$95,898 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-4058,17,$0 ,None,2
+E008,Sheri Thomas,"Editor, magazine features",HR,Full-time,6/21/24,sheri.thomas@company.com,(649)669-6913x37886,"$81,431 ",N/A,Monthly,XXXX-XXXX-XXXX-5479,9,"$5,253 ",None,17
+E009,Jeffrey Williams,Records manager,Analytics,Contractor,7/22/22,jeffrey.williams@company.com,314-708-5422,"$115,865 ",N/A,Weekly,XXXX-XXXX-XXXX-4592,11,$0 ,Health Insurance ($200),0
+E010,Patrick English,Broadcast journalist,Analytics,Contractor,2/4/21,patrick.english@company.com,820-512-9328x3864,"$70,898 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-3071,13,$0 ,401(k) 5%,19
+E011,Emma Williams,Careers information officer,Analytics,Full-time,11/8/21,emma.williams@company.com,+1-814-500-2742x5939,"$108,953 ",N/A,Weekly,XXXX-XXXX-XXXX-6519,4,$0 ,None,5
+E012,Marie Woods,Immigration officer,Analytics,Part-time,7/10/23,marie.woods@company.com,+1-800-527-3147x190,N/A,$27/hour,Weekly,XXXX-XXXX-XXXX-1640,13,$0 ,Health Insurance ($200),20
+E013,Emily Perkins,Camera operator,Analytics,Full-time,11/13/23,emily.perkins@company.com,001-765-560-7142x1802,"$110,810 ",N/A,Monthly,XXXX-XXXX-XXXX-2056,17,"$2,776 ",Health Insurance ($200),15
+E014,Ebony Schneider,Set designer,Marketing,Contractor,7/26/24,ebony.schneider@company.com,517-539-4510,"$109,360 ",N/A,Weekly,XXXX-XXXX-XXXX-5283,5,"$7,740 ",None,13
+E015,Jamie Garcia,Furniture designer,IT,Full-time,8/9/20,jamie.garcia@company.com,001-706-307-8355x57119,"$55,499 ",N/A,Weekly,XXXX-XXXX-XXXX-6191,8,$0 ,401(k) 5%,6
+E016,Paul Powers,"Investment banker, corporate",Marketing,Full-time,10/18/23,paul.powers@company.com,858-291-0196,"$100,552 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-919,1,$0 ,Health Insurance ($200),17
+E017,Kathy Tran,Speech and language therapist,Analytics,Full-time,2/18/24,kathy.tran@company.com,(805)378-5493,"$49,089 ",N/A,Weekly,XXXX-XXXX-XXXX-6221,5,"$4,647 ",None,18
+E018,Kevin Potter,Geochemist,IT,Contractor,3/27/23,kevin.potter@company.com,432.222.7548x1384,"$105,125 ",N/A,Weekly,XXXX-XXXX-XXXX-9644,3,"$5,457 ",401(k) 5%,4
+E019,Andrew Tran,"Conservator, museum/gallery",HR,Full-time,12/16/23,andrew.tran@company.com,867-693-9158,"$58,240 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-7319,0,$0 ,None,17
+E020,Lori Moreno,"Accountant, chartered",IT,Part-time,12/14/24,lori.moreno@company.com,-1717,N/A,$18/hour,Weekly,XXXX-XXXX-XXXX-8080,15,$0 ,401(k) 5%,13
+E021,Daniel Willis,Surgeon,Finance,Contractor,5/25/22,daniel.willis@company.com,(800)776-9027x86642,"$112,518 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-7187,18,$0 ,401(k) 5%,3
+E022,Mr. Gerald Mathis II,Psychiatrist,Analytics,Part-time,3/28/21,mr..gerald.mathis.ii@company.com,7242791883,N/A,$16/hour,Weekly,XXXX-XXXX-XXXX-870,1,"$6,314 ",None,19
+E023,Anthony Cervantes,Civil Service fast streamer,Finance,Full-time,4/14/22,anthony.cervantes@company.com,652-833-4066x35313,"$87,745 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-9926,11,"$8,534 ",Health Insurance ($200),16
+E024,Felicia Williams,Comptroller,Analytics,Contractor,3/24/24,felicia.williams@company.com,001-798-348-1508x418,"$63,229 ",N/A,Monthly,XXXX-XXXX-XXXX-8248,0,$0 ,Health Insurance ($200),4
+E025,Ray Harris,Press photographer,HR,Full-time,6/30/21,ray.harris@company.com,(588)467-1563,"$50,144 ",N/A,Monthly,XXXX-XXXX-XXXX-734,1,"$9,058 ",Health Insurance ($200),16
+E026,Joshua Martinez,Product manager,IT,Part-time,6/15/23,joshua.martinez@company.com,386-881-6527,N/A,$19/hour,Weekly,XXXX-XXXX-XXXX-3955,6,$0 ,401(k) 5%,5
+E027,Kathy Miller,Pension scheme manager,Sales,Full-time,7/28/21,kathy.miller@company.com,+1-338-773-6639x69804,"$76,139 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-8957,16,$0 ,None,6
+E028,Tom Le,Minerals surveyor,Finance,Part-time,8/21/21,tom.le@company.com,259.935.8278x59761,N/A,$28/hour,Weekly,XXXX-XXXX-XXXX-4812,16,$0 ,Health Insurance ($200),2
+E029,Shannon Martinez,Art gallery manager,IT,Contractor,8/11/22,shannon.martinez@company.com,+1-749-430-6424x23488,"$68,883 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-8839,14,$0 ,401(k) 5%,9
+E030,Jennifer Gross,Petroleum engineer,Sales,Full-time,5/2/21,jennifer.gross@company.com,480-338-9098x658,"$95,003 ",N/A,Monthly,XXXX-XXXX-XXXX-6219,6,"$3,533 ",401(k) 5%,1
+E031,Gina Thomas,Secretary/administrator,Sales,Part-time,3/27/25,gina.thomas@company.com,2105466814,N/A,$26/hour,Monthly,XXXX-XXXX-XXXX-8453,16,$0 ,None,19
+E032,Sheila Paul MD,Applications developer,Marketing,Part-time,8/14/24,sheila.paul.md@company.com,437.974.2402x36549,N/A,$24/hour,Bi-weekly,XXXX-XXXX-XXXX-9420,3,$179 ,None,19
+E033,Natalie Mitchell,Contractor,Finance,Full-time,6/22/20,natalie.mitchell@company.com,625.777.7896,"$67,128 ",N/A,Monthly,XXXX-XXXX-XXXX-947,19,"$6,779 ",401(k) 5%,1
+E034,Tracey Schneider,Information officer,Analytics,Part-time,7/26/20,tracey.schneider@company.com,+1-787-789-7579x1448,N/A,$25/hour,Bi-weekly,XXXX-XXXX-XXXX-4180,12,"$2,911 ",None,3
+E035,Michael Hammond,Land,Sales,Full-time,8/24/24,michael.hammond@company.com,001-200-273-9212x89511,"$119,982 ",N/A,Weekly,XXXX-XXXX-XXXX-5960,13,$0 ,None,6
+E036,Karen Scott,Newspaper journalist,Marketing,Full-time,3/27/23,karen.scott@company.com,001-973-549-9844x6240,"$56,990 ",N/A,Weekly,XXXX-XXXX-XXXX-5708,5,$0 ,Health Insurance ($200),1
+E037,Daniel Frost,"Loss adjuster, chartered",Finance,Full-time,1/10/24,daniel.frost@company.com,001-278-762-1045x5196,"$49,625 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-5829,6,"$3,868 ",None,11
+E038,Matthew King,Statistician,Marketing,Full-time,1/30/22,matthew.king@company.com,+1-924-360-4674x210,"$111,113 ",N/A,Monthly,XXXX-XXXX-XXXX-6798,0,$0 ,401(k) 5%,20
+E039,Melissa Ramirez,"Research officer, political party",IT,Full-time,11/9/20,melissa.ramirez@company.com,542-909-2882x26346,"$111,289 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-4814,18,"$1,475 ",401(k) 5%,10
+E040,Ashley Anderson,"Teacher, early years/pre",Finance,Part-time,3/28/21,ashley.anderson@company.com,449.288.1754x946,N/A,$23/hour,Bi-weekly,XXXX-XXXX-XXXX-2952,11,$0 ,None,8
+E041,Laura Cortez,"Accountant, chartered",Analytics,Contractor,7/9/24,laura.cortez@company.com,321.406.2689x47913,"$48,355 ",N/A,Monthly,XXXX-XXXX-XXXX-9515,7,"$9,543 ",None,17
+E042,Kimberly Jones,"Psychologist, occupational",Finance,Full-time,1/17/22,kimberly.jones@company.com,(766)926-5571,"$108,637 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-5753,12,"$8,172 ",Health Insurance ($200),11
+E043,Misty Bailey,Restaurant manager,Sales,Part-time,8/20/20,misty.bailey@company.com,001-916-324-3737x91195,N/A,$34/hour,Bi-weekly,XXXX-XXXX-XXXX-1646,20,"$9,379 ",401(k) 5%,4
+E044,Bailey Stone,Newspaper journalist,IT,Part-time,5/1/21,bailey.stone@company.com,+1-546-507-1723x235,N/A,$35/hour,Monthly,XXXX-XXXX-XXXX-9878,17,"$8,708 ",Health Insurance ($200),2
+E045,Mallory Jordan,"Engineer, materials",HR,Full-time,8/8/22,mallory.jordan@company.com,+1-433-510-1515x869,"$109,441 ",N/A,Weekly,XXXX-XXXX-XXXX-6800,14,$0 ,Health Insurance ($200),20
+E046,James Li,Environmental health practitioner,IT,Part-time,1/25/21,james.li@company.com,390.266.1451,N/A,$32/hour,Monthly,XXXX-XXXX-XXXX-6032,8,$0 ,401(k) 5%,6
+E047,Wesley Brown,"Psychotherapist, child",Marketing,Contractor,1/9/23,wesley.brown@company.com,-8805,"$115,730 ",N/A,Weekly,XXXX-XXXX-XXXX-6315,8,$0 ,None,8
+E048,Erika King,Marketing executive,Marketing,Part-time,7/5/24,erika.king@company.com,(713)786-4643x91975,N/A,$20/hour,Bi-weekly,XXXX-XXXX-XXXX-19,7,"$8,405 ",Health Insurance ($200),4
+E049,Anna Taylor,IT technical support officer,Analytics,Contractor,5/6/23,anna.taylor@company.com,(679)763-9448x647,"$40,736 ",N/A,Monthly,XXXX-XXXX-XXXX-5585,16,$0 ,401(k) 5%,13
+E050,Christopher Perez,Podiatrist,Sales,Contractor,9/28/22,christopher.perez@company.com,747.596.1718x62049,"$62,480 ",N/A,Weekly,XXXX-XXXX-XXXX-7852,1,"$1,245 ",None,18
+E051,Samantha Myers,"Engineer, agricultural",Marketing,Part-time,3/5/21,samantha.myers@company.com,259-672-8745x6558,N/A,$27/hour,Bi-weekly,XXXX-XXXX-XXXX-6718,10,$0 ,None,4
+E052,Philip Mitchell,Applications developer,Sales,Part-time,1/22/21,philip.mitchell@company.com,3342282697,N/A,$19/hour,Monthly,XXXX-XXXX-XXXX-5844,8,"$7,029 ",401(k) 5%,1
+E053,Christina Sullivan,Glass blower/designer,Analytics,Full-time,4/9/24,christina.sullivan@company.com,239-644-7732x53741,"$83,770 ",N/A,Monthly,XXXX-XXXX-XXXX-5590,2,"$8,581 ",None,11
+E054,Tammy Stone,"Research officer, trade union",Sales,Full-time,11/6/20,tammy.stone@company.com,235.609.6019x7380,"$73,970 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-224,2,$0 ,None,20
+E055,Mark Hayes,"Therapist, music",Analytics,Contractor,10/6/24,mark.hayes@company.com,-9699,"$63,437 ",N/A,Weekly,XXXX-XXXX-XXXX-3439,1,"$6,864 ",401(k) 5%,17
+E056,Ryan Gallagher,Catering manager,IT,Part-time,11/2/22,ryan.gallagher@company.com,(612)992-2667,N/A,$18/hour,Bi-weekly,XXXX-XXXX-XXXX-3862,15,$0 ,Health Insurance ($200),18
+E057,Christopher Phillips,Trade union research officer,Finance,Contractor,5/8/24,christopher.phillips@company.com,(675)372-0629x752,"$87,504 ",N/A,Weekly,XXXX-XXXX-XXXX-3762,6,$0 ,Health Insurance ($200),10
+E058,Jacqueline Benson,Jewellery designer,Sales,Part-time,7/14/21,jacqueline.benson@company.com,-10877,N/A,$24/hour,Bi-weekly,XXXX-XXXX-XXXX-5860,7,$231 ,None,14
+E059,Mary Payne,Adult guidance worker,Analytics,Part-time,12/7/20,mary.payne@company.com,(484)293-0823x986,N/A,$21/hour,Bi-weekly,XXXX-XXXX-XXXX-2987,5,$160 ,Health Insurance ($200),9
+E060,Cheryl Johnson,Software engineer,IT,Part-time,12/5/20,cheryl.johnson@company.com,-6128,N/A,$28/hour,Weekly,XXXX-XXXX-XXXX-4760,10,"$2,225 ",401(k) 5%,3
+E061,Kelly Jones,"Engineer, energy",IT,Full-time,12/31/22,kelly.jones@company.com,(205)724-4535x48652,"$109,032 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-9818,15,$0 ,None,7
+E062,Sarah Thompson,English as a second language teacher,Analytics,Full-time,3/31/21,sarah.thompson@company.com,9364514948,"$40,464 ",N/A,Monthly,XXXX-XXXX-XXXX-9709,3,$0 ,Health Insurance ($200),15
+E063,Eric Santos,Air cabin crew,Finance,Full-time,1/29/23,eric.santos@company.com,-9477,"$87,165 ",N/A,Monthly,XXXX-XXXX-XXXX-3561,10,$0 ,401(k) 5%,6
+E064,Lawrence Bell,Water engineer,Finance,Contractor,3/27/21,lawrence.bell@company.com,7912774066,"$84,948 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-4935,6,$0 ,401(k) 5%,19
+E065,Michael Arellano,Games developer,IT,Full-time,4/12/22,michael.arellano@company.com,001-384-304-5413x1295,"$47,476 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-5948,15,"$1,960 ",Health Insurance ($200),4
+E066,Stephanie Robinson,"Accountant, chartered public finance",Analytics,Full-time,3/17/24,stephanie.robinson@company.com,(372)899-8148,"$88,502 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-9105,12,"$2,635 ",None,17
+E067,April Stephens,Armed forces operational officer,Marketing,Part-time,3/2/22,april.stephens@company.com,001-959-342-7508,N/A,$32/hour,Monthly,XXXX-XXXX-XXXX-8946,2,$0 ,None,17
+E068,Kylie Kennedy,Agricultural engineer,HR,Part-time,7/9/21,kylie.kennedy@company.com,360-614-5840,N/A,$25/hour,Bi-weekly,XXXX-XXXX-XXXX-4570,19,"$4,642 ",Health Insurance ($200),9
+E069,Peter Dean,Facilities manager,Analytics,Contractor,10/23/24,peter.dean@company.com,428-428-3274x7892,"$50,351 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-3141,2,$0 ,Health Insurance ($200),15
+E070,Amy Bennett,Systems developer,Finance,Part-time,1/8/21,amy.bennett@company.com,001-702-686-7435,N/A,$28/hour,Bi-weekly,XXXX-XXXX-XXXX-1000,15,$0 ,Health Insurance ($200),9
+E071,Dalton Alvarez,Sub,Marketing,Contractor,10/18/23,dalton.alvarez@company.com,001-862-889-5717x12406,"$117,787 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-7092,7,"$4,342 ",None,13
+E072,Megan Brown,Fashion designer,IT,Contractor,2/28/23,megan.brown@company.com,+1-672-776-8673x50041,"$45,270 ",N/A,Weekly,XXXX-XXXX-XXXX-7814,12,"$5,575 ",401(k) 5%,7
+E073,Katherine Barber,"Administrator, charities/voluntary organisations",HR,Part-time,11/29/23,katherine.barber@company.com,6034867929,N/A,$24/hour,Monthly,XXXX-XXXX-XXXX-7484,6,"$4,408 ",401(k) 5%,7
+E074,Paige Rodgers,Interior and spatial designer,Analytics,Contractor,6/21/23,paige.rodgers@company.com,(505)969-4411x01134,"$113,195 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-8849,13,$0 ,None,6
+E075,Matthew Smith,Television floor manager,Sales,Contractor,12/6/23,matthew.smith@company.com,001-434-854-2512x019,"$44,992 ",N/A,Weekly,XXXX-XXXX-XXXX-5974,5,$728 ,None,13
+E076,Jacob Garcia,Leisure centre manager,Finance,Part-time,3/10/25,jacob.garcia@company.com,6674125692,N/A,$35/hour,Weekly,XXXX-XXXX-XXXX-4056,12,$0 ,None,11
+E077,Kim Reyes,Best boy,Sales,Part-time,1/1/25,kim.reyes@company.com,529-682-5461x417,N/A,$23/hour,Weekly,XXXX-XXXX-XXXX-9658,12,"$6,672 ",Health Insurance ($200),0
+E078,Jonathan Rowe,"Engineer, automotive",IT,Contractor,7/27/22,jonathan.rowe@company.com,001-961-489-9849,"$73,723 ",N/A,Monthly,XXXX-XXXX-XXXX-143,9,$0 ,401(k) 5%,1
+E079,Charles Klein,"Civil engineer, contracting",IT,Part-time,5/31/21,charles.klein@company.com,+1-410-881-8634x302,N/A,$22/hour,Bi-weekly,XXXX-XXXX-XXXX-7191,9,$0 ,Health Insurance ($200),4
+E080,Jacob Martinez,Location manager,Sales,Full-time,8/19/23,jacob.martinez@company.com,4574497381,"$68,556 ",N/A,Weekly,XXXX-XXXX-XXXX-6828,11,$0 ,Health Insurance ($200),2
+E081,Ashley Casey,"Designer, television/film set",Finance,Contractor,1/24/25,ashley.casey@company.com,602-524-9877,"$77,364 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-2824,12,$0 ,Health Insurance ($200),15
+E082,Joshua Bridges,Prison officer,Analytics,Full-time,7/23/20,joshua.bridges@company.com,+1-721-701-7115x653,"$44,887 ",N/A,Weekly,XXXX-XXXX-XXXX-1741,11,"$3,541 ",401(k) 5%,11
+E083,Jessica Hicks,Dietitian,HR,Full-time,12/20/24,jessica.hicks@company.com,001-456-554-1312x755,"$49,968 ",N/A,Weekly,XXXX-XXXX-XXXX-4378,11,$0 ,401(k) 5%,13
+E084,Aaron Lewis,Waste management officer,Finance,Full-time,1/23/25,aaron.lewis@company.com,(564)631-5853,"$105,176 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-8154,11,$0 ,401(k) 5%,16
+E085,Michelle Bell,Airline pilot,HR,Full-time,11/23/24,michelle.bell@company.com,447-510-2687x170,"$62,107 ",N/A,Monthly,XXXX-XXXX-XXXX-244,17,$0 ,Health Insurance ($200),10
+E086,Tracey Moon,Site engineer,HR,Part-time,7/24/22,tracey.moon@company.com,+1-301-751-5027x52125,N/A,$29/hour,Bi-weekly,XXXX-XXXX-XXXX-5064,13,$0 ,401(k) 5%,9
+E087,Mariah Macdonald,"Chemist, analytical",IT,Full-time,9/25/20,mariah.macdonald@company.com,001-939-356-2097x4880,"$42,722 ",N/A,Monthly,XXXX-XXXX-XXXX-6327,12,"$9,129 ",Health Insurance ($200),3
+E088,Sherri Gross,Facilities manager,IT,Full-time,5/20/24,sherri.gross@company.com,558-676-5794x9803,"$59,558 ",N/A,Weekly,XXXX-XXXX-XXXX-6449,12,$0 ,Health Insurance ($200),17
+E089,Daniel Porter,Legal secretary,Finance,Contractor,7/20/22,daniel.porter@company.com,001-265-571-1931x298,"$67,489 ",N/A,Monthly,XXXX-XXXX-XXXX-2492,3,$0 ,Health Insurance ($200),3
+E090,Jeffrey Rodriguez,"Exhibitions officer, museum/gallery",Sales,Contractor,10/8/24,jeffrey.rodriguez@company.com,784-382-3225,"$78,576 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-9833,19,$962 ,Health Insurance ($200),4
+E091,Barbara Powell,"Scientist, product/process development",IT,Full-time,8/8/20,barbara.powell@company.com,001-317-736-5129,"$117,460 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-2904,3,$0 ,None,4
+E092,Jeffrey Hall,Retail banker,Analytics,Full-time,5/17/20,jeffrey.hall@company.com,+1-257-957-6222x91880,"$52,106 ",N/A,Monthly,XXXX-XXXX-XXXX-8491,15,"$3,052 ",Health Insurance ($200),15
+E093,Bryan Frazier,Claims inspector/assessor,Sales,Contractor,12/3/23,bryan.frazier@company.com,001-416-865-8933x6527,"$56,770 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-6489,13,$0 ,401(k) 5%,19
+E094,Jonathan Cook,Ambulance person,Analytics,Full-time,6/27/22,jonathan.cook@company.com,657.502.0846x440,"$84,188 ",N/A,Bi-weekly,XXXX-XXXX-XXXX-5498,7,"$6,810 ",401(k) 5%,19
+E095,Andrew Garner,"Pharmacist, hospital",Finance,Contractor,12/11/21,andrew.garner@company.com,001-619-333-7648x7521,"$103,121 ",N/A,Monthly,XXXX-XXXX-XXXX-4430,16,"$6,466 ",Health Insurance ($200),2
+E096,Denise Everett,Consulting civil engineer,Analytics,Full-time,2/24/23,denise.everett@company.com,882.270.1941,"$119,305 ",N/A,Weekly,XXXX-XXXX-XXXX-9439,1,$0 ,None,12
+E097,Russell Campbell,Hydrogeologist,Sales,Part-time,5/28/22,russell.campbell@company.com,(856)803-4242,N/A,$22/hour,Monthly,XXXX-XXXX-XXXX-2010,3,$0 ,401(k) 5%,4
+E098,Robert Hahn,"Engineer, land",HR,Full-time,8/17/23,robert.hahn@company.com,844-589-4754x5611,"$92,238 ",N/A,Monthly,XXXX-XXXX-XXXX-9935,11,$0 ,Health Insurance ($200),3
+E099,Robert Moreno,"Surveyor, land/geomatics",Finance,Full-time,8/30/22,robert.moreno@company.com,8698471743,"$48,981 ",N/A,Weekly,XXXX-XXXX-XXXX-8256,14,$0 ,401(k) 5%,11
+E100,William Macias Jr.,Leisure centre manager,Marketing,Part-time,10/20/21,william.macias.jr.@company.com,001-943-600-1530x29665,N/A,$22/hour,Bi-weekly,XXXX-XXXX-XXXX-3295,6,$0 ,None,3
