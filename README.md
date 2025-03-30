@@ -1,4 +1,8 @@
 # AI-Powered Career Assistant
+
+## Team Name
+Team Burmuda
+
 ## Project Members
 Sanika Mhadgut
 
