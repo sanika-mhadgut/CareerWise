@@ -88,6 +88,27 @@ The AI-Powered Career Assistant is a smart conversational AI system designed to 
 - Use Adaptive Cards for data correction requests.
 - Access visual reports from the analytics tab.
 
+## Demo:
+
+
+![WhatsApp Image 2025-03-30 at 09 37 48](https://github.com/user-attachments/assets/46610bb7-6e2a-4187-b976-a0af1794c5f1)
+<img width="467" alt="Screenshot 2025-03-30 at 10 36 01 AM" src="https://github.com/user-attachments/assets/d833d689-f4a4-4acc-b9dc-6d55222f9ce6" />
+<img width="1470" alt="Screenshot 2025-03-30 at 10 32 07 AM" src="https://github.com/user-attachments/assets/39a2c198-b40e-4046-b8e1-4888c9ca41ed" />
+<img width="1468" alt="Screenshot 2025-03-30 at 10 31 29 AM" src="https://github.com/user-attachments/assets/557790dd-a9d9-4fa6-941d-9a872dded135" />
+<img width="1468" alt="Screenshot 2025-03-30 at 10 31 07 AM" src="https://github.com/user-attachments/assets/339f9ac1-beb4-4fcf-8659-7d7b049975c6" />
+<img width="1271" alt="Screenshot 2025-03-30 at 10 29 22 AM" src="https://github.com/user-attachments/assets/33582a2f-13a8-4479-bc81-4f0600da37db" />
+<img width="1391" alt="Screenshot 2025-03-30 at 10 28 35 AM" src="https://github.com/user-attachments/assets/fc22c70c-8425-4855-b1f9-6321a1a856fa" />
+<img width="1008" alt="Screenshot 2025-03-30 at 10 28 10 AM" src="https://github.com/user-attachments/assets/8cd7aaae-d221-470f-9afe-8f3910b15d16" />
+<img width="1470" alt="Screenshot 2025-03-30 at 10 27 47 AM" src="https://github.com/user-attachments/assets/89bff117-d247-47e7-af6f-3e60c39263d5" />
+<img width="172" alt="Screenshot 2025-03-30 at 10 27 05 AM" src="https://github.com/user-attachments/assets/be9578ad-13ec-46a9-91bf-4b26db743ac8" />
+<img width="175" alt="Screenshot 2025-03-30 at 10 26 55 AM" src="https://github.com/user-attachments/assets/2adc32c1-3ff3-4cfc-9a6c-36cdbe58e94a" />
+<img width="174" alt="Screenshot 2025-03-30 at 10 26 43 AM" src="https://github.com/user-attachments/assets/c022e8ef-49e0-4d6d-ade7-1f530b6a8f7f" />
+<img width="1060" alt="Screenshot 2025-03-30 at 10 26 21 AM" src="https://github.com/user-attachments/assets/a251cae3-104f-40b8-a26c-b24cb1939d7e" />
+<img width="254" alt="Screenshot 2025-03-30 at 10 05 01 AM" src="https://github.com/user-attachments/assets/1ad23b24-94d1-46c9-92a1-5e16f05850e2" />
+
+
+
+
 ## Support
 For further assistance, contact the development team via Teams or submit a ticket using the internal support portal.
 
