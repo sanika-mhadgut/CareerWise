@@ -1,7 +1,9 @@
 # AI-Powered Career Assistant
 ## Project Members
 Sanika Mhadgut
+
 Abhishek Kumar
+
 Ankit Chaurasia
 
 
