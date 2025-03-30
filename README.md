@@ -1,6 +1,8 @@
 # CareerWise - AI Powered Career Assistant 
 Link to the Demo Website - http://copilotstudio.microsoft.com/environments/Default-8d1a69ec-03b5-4345-ae21-dad112f5fb4f/bots/cr0f0_careerWiseBot/canvas?__version__=2&enableFileAttachment=true
 
+![Logo](https://github.com/user-attachments/assets/cecac6f2-6db5-4efc-a131-52cb16e0fd89)
+
 ## Team Name
 Team Bermuda
 
