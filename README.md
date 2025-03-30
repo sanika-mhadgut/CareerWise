@@ -1,4 +1,4 @@
-# AI-Powered Career Assistant
+# CarerWise - AI Powered Career Assistant 
 
 ## Team Name
 Team Bermuda
