@@ -105,6 +105,7 @@ The AI-Powered Career Assistant is a smart conversational AI system designed to 
 
 ![WhatsApp Image 2025-03-30 at 09 37 48](https://github.com/user-attachments/assets/46610bb7-6e2a-4187-b976-a0af1794c5f1)
 <img width="467" alt="Screenshot 2025-03-30 at 10 36 01 AM" src="https://github.com/user-attachments/assets/d833d689-f4a4-4acc-b9dc-6d55222f9ce6" />
+<img width="1470" alt="Image14" src="https://github.com/user-attachments/assets/ab070bab-0643-4ddd-9b3f-0709de49117f" />
 <img width="1470" alt="Screenshot 2025-03-30 at 10 32 07 AM" src="https://github.com/user-attachments/assets/39a2c198-b40e-4046-b8e1-4888c9ca41ed" />
 <img width="1468" alt="Screenshot 2025-03-30 at 10 31 29 AM" src="https://github.com/user-attachments/assets/557790dd-a9d9-4fa6-941d-9a872dded135" />
 <img width="1468" alt="Screenshot 2025-03-30 at 10 31 07 AM" src="https://github.com/user-attachments/assets/339f9ac1-beb4-4fcf-8659-7d7b049975c6" />
