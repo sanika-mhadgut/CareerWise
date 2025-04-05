@@ -104,6 +104,34 @@ The AI-Powered Career Assistant is a smart conversational AI system designed to 
 - Use Adaptive Cards for data correction requests.
 - Access visual reports from the analytics tab.
 
+## Tech Stack
+Frontend: React, ReactDOM
+UI Components: MUI (Material UI), Emotion (for styling)
+Animations: react-tsparticles
+Build Tool: Vite
+Linting: ESLint
+Getting Started
+Prerequisites
+Ensure you have the following installed:
+
+Node.js (Latest LTS version recommended)
+npm or yarn
+Installation
+# Clone the repository
+git clone https://github.com/your-repo-url/my-copilot-agent.git
+cd my-copilot-agent
+
+# Install dependencies
+npm install
+
+Running the Development Server
+
+npm run build
+Contributing
+
+Contributions are welcome! Please submit a pull request with any improvements.
+
+
 ## Demo:
 
 
